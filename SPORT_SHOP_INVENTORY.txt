@@ -1,0 +1,24 @@
+Item ID     : 1001
+Item Name   :  Nike Ball
+Category    :  BALL
+Quantity    : 20
+Price (RM)  : 90.80
+----------------------------
+Item ID     : 1002
+Item Name   :  Adidas Ball
+Category    :  BALL
+Quantity    : 40
+Price (RM)  : 70.90
+----------------------------
+Item ID     : 1003
+Item Name   :  Yonex v100
+Category    :  RACKET
+Quantity    : 70
+Price (RM)  : 459.90
+----------------------------
+Item ID     : 1004
+Item Name   :  Jogosala
+Category    :  SHOES
+Quantity    : 20
+Price (RM)  : 129.00
+----------------------------
